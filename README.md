@@ -11,16 +11,13 @@
 
 - 📫 How to reach me **ethenfm@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Yf34EmP1OXTcYB8miaQWZ7l4jFeoaa_-2-huvKWskqs/edit?usp=sharing](https://docs.google.com/document/d/1Yf34EmP1OXTcYB8miaQWZ7l4jFeoaa_-2-huvKWskqs/edit?usp=sharing)
+- 📄 Know about my experiences [http://bit.ly/3WpKCNw](http://bit.ly/3WpKCNw)
 
 - ⚡ Fun fact **I make beats in FL studio and am passionate about marketing the music I make via email marketing and google analytics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ethen-roth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ethen-roth/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ethenthinkful/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ethenthinkful/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/ethenthinkful?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/ethenthinkful?hr_r=1" height="30" width="40" /></a>
-<a href="https://discord.gg/3t#0759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3t#0759" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ethen-roth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ethen-roth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
