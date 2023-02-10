@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PokemonAPIject](https://github.com/EthenThinkful/PokemonAPIject) & [kelly-website](https://github.com/EthenThinkful/kelly-website)
 
-- 🌱 I’m currently learning Tailwind CSS & Python
+- 🌱 I’m currently learning Python
 
 - 👨‍💻 All of my projects are available at [https://github.com/EthenThinkful?tab=repositories](https://github.com/EthenThinkful?tab=repositories)
 
