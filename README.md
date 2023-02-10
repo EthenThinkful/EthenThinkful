@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethen</h1>
 <h3 align="center">A passionate frontend developer from Denver</h3>
 
-- 🔭 I’m currently working on [kelly-website](https://github.com/EthenThinkful/kelly-website)
+- 🔭 I’m currently working on [PokemonAPIject](https://github.com/EthenThinkful/PokemonAPIject) & [kelly-website](https://github.com/EthenThinkful/kelly-website)
 
 - 🌱 I’m currently learning **Tailwind CSS, TypeScript, & C**
 
