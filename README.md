@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EthenThinkful?tab=repositories](https://github.com/EthenThinkful?tab=repositories)
 
-- 💬 Ask me about **React, JavaScript, & JSX**
+- 💬 Ask me about **React, JavaScript, JSX, & Tailwind CSS**
 
 - 📫 How to reach me **ethenfm@gmail.com**
 
