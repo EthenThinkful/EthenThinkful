@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ethen</h1>
-<h3 align="center">A passionate Full Stack developer from Denver</h3>
+<h3 align="center">A passionate Software Engineer & Developer from Denver</h3>
 
 - 🔭 I’m currently working on [Hyperdrive NFT Marketplace](https://github.com/Hyperdrive-go/hd), [PokemonAPIject](https://github.com/EthenThinkful/PokemonAPIject) & [kelly-website](https://github.com/EthenThinkful/kelly-website)
 
